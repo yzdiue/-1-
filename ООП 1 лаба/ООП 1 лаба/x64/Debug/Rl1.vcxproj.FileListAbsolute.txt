@@ -1,0 +1,4 @@
+E:\Project C++\Rl1\Rl1\x64\Debug\Rl1.vcxproj.AssemblyReference.cache
+E:\Project C++\Rl1\Rl1\x64\Debug\Rl1.vcxproj.SuggestedBindingRedirects.cache
+E:\Project C++\Rl1\Rl1\x64\Debug\Rl1.mainForm.resources
+E:\Project C++\Rl1\Rl1\x64\Debug\Rl1.vcxproj.GenerateResource.cache

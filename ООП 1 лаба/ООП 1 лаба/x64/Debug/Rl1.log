@@ -1,0 +1,8 @@
+﻿  mainForm.cpp
+E:\Project C++\Rl1\Rl1\mainForm.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+E:\Project C++\Rl1\Rl1\mainForm.h(222): warning C4700: uninitialized local variable 'y' used
+E:\Project C++\Rl1\Rl1\mainForm.h(223): warning C4700: uninitialized local variable 'z' used
+E:\Project C++\Rl1\Rl1\mainForm.h(248): warning C4700: uninitialized local variable 'y' used
+E:\Project C++\Rl1\Rl1\mainForm.h(249): warning C4700: uninitialized local variable 'z' used
+  mainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Rl1.vcxproj -> E:\Project C++\Rl1\x64\Debug\Rl1.exe
